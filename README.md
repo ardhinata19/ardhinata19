@@ -1,14 +1,12 @@
 ### Hi! 👋 I'm Ardhi
 
-👦 Perkenalkan nama saya **Ardhi Nata**.
+🏙 I am a student at [**Universitas Kristen Immanuel Yogtakarta**](https://ukrim.ac.id/).
 
-🏙 Saya adalah salah satu mahasiswa di [**Universitas Kristen Immanuel Yogtakarta**](https://ukrim.ac.id/).
+👨‍🎓 I am taking an undergraduate study program [Informatics](https://it.ukrim.ac.id/). 
 
-👨‍🎓 Saya menempuh program studi S1 [Informatika](https://it.ukrim.ac.id/). 
+👨‍🏫 I also participate in the [MBKM] (https://kampusmerdeka.kemdikbud.go.id/) program, which is self-study in the [Bangkit 2022] program (https://grow.google/intl/id_id/bangkit/).
 
-👨‍🏫 saya juga mengikuti program [MBKM](https://kampusmerdeka.kemdikbud.go.id/) yaitu studi independent di program [Bangkit 2022](https://grow.google/intl/id_id/bangkit/).
-
-😎 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ardhi-nata-02a2b6231/)ku ya.
+😎 If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/ardhi-nata-02a2b6231/) account.
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
