@@ -4,7 +4,8 @@
 
 👨‍🎓 I am taking an undergraduate study program [Informatics](https://it.ukrim.ac.id/). 
 
-👨‍🏫 I also participate in the [MBKM] (https://kampusmerdeka.kemdikbud.go.id/) program, which is self-study in the [Bangkit 2022] program (https://grow.google/intl/id_id/bangkit/).
+👨‍🏫 I also participate in the [MBKM](https://kampusmerdeka.kemdikbud.go.id/) program, 
+which is self-study in the [Bangkit 2022](https://grow.google/intl/id_id/bangkit/) program.
 
 😎 If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/ardhi-nata-02a2b6231/) account.
 
